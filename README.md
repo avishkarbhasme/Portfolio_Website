@@ -26,7 +26,7 @@ This website provides an interactive and responsive design to highlight achievem
 
 
 ## 📸 Preview
-![Portfolio Screenshot](./images/preview.png)
+![Portfolio Screenshot](./preview.png)
 
 ---
 
@@ -34,7 +34,7 @@ This website provides an interactive and responsive design to highlight achievem
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/avishkarbhasme/Portfolio_Website.git
 ---
 
 📌 Future Enhancements
